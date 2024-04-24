@@ -45,3 +45,4 @@ contracts/.git
 !etc/env/dev.toml
 !etc/env/consensus_secrets.yaml
 !etc/env/consensus_config.yaml
+#1
