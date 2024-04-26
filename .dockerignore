@@ -46,3 +46,4 @@ contracts/.git
 !etc/env/consensus_secrets.yaml
 !etc/env/consensus_config.yaml
 #1
+#2
